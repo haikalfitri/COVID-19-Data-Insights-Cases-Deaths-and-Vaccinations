@@ -8,6 +8,7 @@ The project delves into data cleaning, exploration, and visualization. Using Pow
 
 - SQL Server Management Studio (SSMS)
 - Microsoft Power Bi
+  
 &nbsp;
   
 <p align="center">
