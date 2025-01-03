@@ -25,7 +25,7 @@ The project delves into data cleaning, exploration, and visualization. Using Pow
 
 &nbsp;
 
-To view the interactive visualizations, please download the Power BI file:
+To view the dashboard, please download the Power BI file:
 
 [Download PBIX File](https://github.com/haikalfitri/COVID-19-Data-Insights-Cases-Deaths-and-Vaccinations/blob/main/Covid-19%20Insights.pbix)
 
